@@ -4,7 +4,7 @@ This is a memory cars game built to test memory and to have some fun. The deck o
 
 ## Getting Started
 
-Just click this link #### and enjoy the game
+Just click this link https://libi-libman.github.io/memory-game/ and enjoy the game
 
 ## Instructions
 
